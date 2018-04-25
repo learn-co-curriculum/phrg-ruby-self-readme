@@ -165,6 +165,4 @@ Think about it: if `self` refers to the object on which the method is being call
 
 * [Metaprogramming in Ruby](http://yehudakatz.com/2009/11/15/metaprogramming-in-ruby-its-all-about-the-self/)
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-self-readme' title='Ruby Self'>Ruby Self</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/ruby-self-readme'>Self</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Ruby Self</p>
